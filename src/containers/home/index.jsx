@@ -15,7 +15,7 @@ const Home=()=>{
                     <h1>
                         Hello, I'm Ankit Yadav
                        <br />
-                         Full Stack devloper
+                         Full Stack developer
                     </h1>
                 </div>
                 <Animate
