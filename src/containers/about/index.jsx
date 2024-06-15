@@ -47,9 +47,6 @@ const About = () => {
                             transform: "translatex(0px)",
                         }}
                      >
-                    {/* //     <h3>
-                    //         looking for Software Engineering Internship role
-                    //     </h3> */}
                         <p>{jobSummary}</p>
 
                     </Animate>
