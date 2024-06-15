@@ -1,0 +1,16 @@
+.portfolio .social-links {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio .social-links a {
+    color: #0e76a8; /* LinkedIn blue color */
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+.portfolio .social-links a:hover {
+    color: #005582;
+}

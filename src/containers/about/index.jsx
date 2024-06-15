@@ -12,12 +12,8 @@ const personalDetails = [
         value: "Ankit Yadav",
     },
     {
-        label: "Age :",
-        value: "19",
-    },
-    {
         label: "Address :",
-        value: "Greater Noida, India",
+        value: "Greater Noida,U.P,India",
     },
     {
         label: "Email :",
@@ -29,7 +25,7 @@ const personalDetails = [
     },
 ];
 
-const jobSummary = 'As a passionate 3rd-year Computer Science student, My proficiency in programming languages, specifically C, C++ and Python, has been honed through hands-on experiences and a dedicated 200-hour training program focused on mastering Data Structures and Algorithms. This journey has culminated in the successful resolution of over 550 challenges on LeetCode, showcasing my commitment to continuous learning and problem-solving prowess.I have been training myself in MERN stack.'
+const jobSummary = 'Hi! I Ankit Yadav, a final year B.Tech student specializing in Computer Science. I possess a solid foundation in programming languages including C, C++, and Python. I have honed my problem-solving skills by completing over 550+ questions on LeetCode, which has deepened my understanding of Data Structures and Algorithms (DSA). Additionally, I have experience with React and Node.js, which I have utilized in various projects. Currently, I am delving into Android development using Flutter, building upon my internship experience in the Android development field..'
 
 const About = () => {
     return (
@@ -50,10 +46,10 @@ const About = () => {
                         end={{
                             transform: "translatex(0px)",
                         }}
-                    >
-                        <h3>
-                            looking for Software Engineering Internship role
-                        </h3>
+                     >
+                    {/* //     <h3>
+                    //         looking for Software Engineering Internship role
+                    //     </h3> */}
                         <p>{jobSummary}</p>
 
                     </Animate>
