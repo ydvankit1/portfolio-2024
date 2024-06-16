@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ydvankit1.io/portfolio-2024/static/css/main.d84321d1.css",
-    "main.js": "/ydvankit1.io/portfolio-2024/static/js/main.c8b2b786.js",
-    "index.html": "/ydvankit1.io/portfolio-2024/index.html",
-    "main.d84321d1.css.map": "/ydvankit1.io/portfolio-2024/static/css/main.d84321d1.css.map",
-    "main.c8b2b786.js.map": "/ydvankit1.io/portfolio-2024/static/js/main.c8b2b786.js.map"
+    "main.css": "/portfolio-2024/static/css/main.d84321d1.css",
+    "main.js": "/portfolio-2024/static/js/main.c8b2b786.js",
+    "index.html": "/portfolio-2024/index.html",
+    "main.d84321d1.css.map": "/portfolio-2024/static/css/main.d84321d1.css.map",
+    "main.c8b2b786.js.map": "/portfolio-2024/static/js/main.c8b2b786.js.map"
   },
   "entrypoints": [
     "static/css/main.d84321d1.css",
