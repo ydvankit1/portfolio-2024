@@ -25,7 +25,7 @@ const personalDetails = [
     },
 ];
 
-const jobSummary = 'Hi! I Ankit Yadav, a final year B.Tech student specializing in Computer Science. I possess a solid foundation in programming languages including C, C++, Python and Java. I have honed my problem-solving skills by completing over 550+ questions on LeetCode, which has deepened my understanding of Data Structures and Algorithms (DSA). Additionally, I have experience with React and Node.js, which I have utilized in various projects. Currently, I am delving into Android development using Flutter, building upon my internship experience in the Android development field..'
+const jobSummary = 'Hi! I Ankit Yadav, a final year B.Tech student specializing in Computer Science. I possess a solid foundation in programming languages including C, C++,Java and Python. I have honed my problem-solving skills by completing over 550+ questions on LeetCode, which has deepened my understanding of Data Structures and Algorithms (DSA). Additionally, I have experience with React and Node.js, which I have utilized in various projects. Currently, I am delving into Android development using Flutter, building upon my internship experience in the Android development field..'
 
 const About = () => {
     return (
