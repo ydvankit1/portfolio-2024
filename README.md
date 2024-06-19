@@ -31,7 +31,7 @@ While the website is functional, there are still areas that are under developmen
 
 ## How to View the Website
 
-1. Visit the [website link](link_to_website) to explore the portfolio.
+1. Visit the [website link]([link_to_website](https://ydvankit1.github.io/portfolio-2024/)) to explore the portfolio.
 2. Feel free to navigate through different sections and provide feedback.
 
 ## Feedback and Contributions
